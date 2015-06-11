@@ -1,0 +1,12 @@
+{
+    "path": "",
+    "level": "psr2",
+    "patch": "true",
+    "encoding": "UTF-8",
+    "on_save": true,
+    "on_load": false,
+    "syntaxes": [
+        "Packages/PHP/PHP.sublime-syntax",
+        //"Packages/HTML/HTML.sublime-syntax",
+    ]
+}
