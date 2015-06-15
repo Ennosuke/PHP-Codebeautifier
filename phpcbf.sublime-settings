@@ -7,6 +7,8 @@
     "on_load": false,
     "syntaxes": [
         "Packages/PHP/PHP.sublime-syntax",
-        //"Packages/HTML/HTML.sublime-syntax",
-    ]
+    ],
+    "suffix": "",
+    "sniffs": [],
+    "tab_width": ""
 }
