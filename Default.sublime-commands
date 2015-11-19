@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "PHP CodeBeautifier",
+        "command": "php_cbf",
+    },
+]
