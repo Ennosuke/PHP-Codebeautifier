@@ -6,7 +6,8 @@
     "on_save": true,
     "on_load": false,
     "syntaxes": [
-        "Packages/PHP/PHP.sublime-syntax",
+        "Packages/PHP/PHP.tmLanguage",
+        "Packages/PHP/PHP.sublime-syntax"
     ],
     "suffix": "",
     "sniffs": [],
