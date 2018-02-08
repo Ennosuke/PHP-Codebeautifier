@@ -15,7 +15,7 @@
                 "id": "package-settings",
                 "children": [
                     {
-                        "caption": "PHP Code Beautifier",
+                        "caption": "PHP CodeBeautifier",
                         "children": [
                             {
                                 "command": "open_file",

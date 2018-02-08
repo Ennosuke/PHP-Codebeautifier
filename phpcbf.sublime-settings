@@ -1,7 +1,7 @@
 {
     "path": "",
-    "level": "psr2",
-    "patch": "true",
+    "level": "PSR2",
+    "patch": false,
     "encoding": "UTF-8",
     "on_save": true,
     "on_load": false,

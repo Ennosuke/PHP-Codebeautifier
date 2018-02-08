@@ -21,5 +21,6 @@ Nearly all configuration options from phpcbf are bound to options in the setting
 The three most important ones are
 
 1. path  - Sets the path to the phpcbf executable
-2. level - Sets the code standard to follow. Default: psr-2
-3. patch - Sets whenether patch command should be used. 
+2. level - Sets the code standard to follow. Default: PSR-2
+
+Now configuration can be used by project.
