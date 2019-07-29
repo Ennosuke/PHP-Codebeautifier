@@ -9,7 +9,7 @@ class PhpCbfCommand(sublime_plugin.TextCommand):
         if cur_syntax not in syntaxes:
             return
         path = settings.get('path', "")
-        level = settings.get('level', 'psr2')
+        level = self.view.settings().get('phpcbf.level', False) or settings.get('level', 'psr2')
         patch = settings.get('patch', False)
         suffix = settings.get('suffix', '')
         sniffs = settings.get('sniffs', '')
